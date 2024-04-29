@@ -27,7 +27,7 @@ public class ListView extends VerticalLayout {
         setSizeFull();
         setJustifyContentMode(JustifyContentMode.CENTER);
         setDefaultHorizontalComponentAlignment(Alignment.CENTER);
-        getStyle().set("text-align", "center");
+        getStyle().set("text-align", "Center");
     }
 
 }
